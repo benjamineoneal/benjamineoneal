@@ -9,8 +9,6 @@
 
 <!-- <img width="50%" align="right" alt="Profile Photo" src="" /> ADD LATER -->
 
-<p>Hello, my name is Benjamin O'Neal.  I am an IT Administrator from Tennessee that has 15+ years of network management, troubleshooting, and creative problem solving.  I've always been fascinated by the limiteless possibilities of programming.  I believe that learning coding is not just a skill but a mindset.  A mindset which I believe I am in possession of, which is why I've decided to stumble my way through the doorway of programming.</p>
-
 <p>I've bene working in IT for a while, gaining experience in areas such as system administration, network management, and troubleshooting. Over time, I realized the potential of programming to automate, optimize, and transform the way we work, which sparked my interest in developing my coding skills.</p>
 
 <p>I'm particularly excited about leanring languages like Python to help me solve real-world problems. My goal is to merge my IT background with programming exptertise to build more efficient systems and contribute meanifully to projects.</p>
